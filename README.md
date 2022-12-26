@@ -17,7 +17,7 @@ Welcome to my profile! I'm a student, aspiring back-end developer.
 
 **🏔 Projects**
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/reg0145/42byte"><img src="https://user-images.githubusercontent.com/90084199/156922062-1e722599-1365-493a-93da-9a3e0e55c963.png" width="200" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/reg0145/42byte"><img src="https://github.com/reg0145/reg0145/blob/main/assets/42gg_icon.png" width="200" height="36"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/reg0145/42byte"><img src="https://user-images.githubusercontent.com/90084199/156922062-1e722599-1365-493a-93da-9a3e0e55c963.png" width="200" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/42organization/42gg"><img src="https://github.com/reg0145/reg0145/blob/main/assets/42gg_icon.png" width="200" height="36"/></a>
 
 <br>
 
