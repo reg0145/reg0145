@@ -1,6 +1,9 @@
-### Hi, I'm Donghyun Kim  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi, I'm Donghyun Kim  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 Welcome to my profile! I'm a student, aspiring back-end developer.
 
+<img align="right" alt="GIF" src="https://github.com/reg0145/reg0145/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
+**Talking about Personal Stuffs:**
 - 🌱 &nbsp;I’m currently learning C++ and Algorithms
 - 💒 &nbsp;I'm currently studying at the [42 Innovation Academy](https://innovationacademy.kr/academy/main/view)
 - 💬 &nbsp;How to reach me: [@donghyun0145](mailto:donghyun0145@gmail.com)
