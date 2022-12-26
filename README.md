@@ -3,15 +3,9 @@ Welcome to my profile! I'm a student, aspiring back-end developer.
 
 <img align="right" alt="GIF" src="https://github.com/reg0145/reg0145/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
-**Talking about Personal Stuffs:**
 - 🌱 &nbsp;I’m currently learning C++ and Algorithms
 - 💒 &nbsp;I'm currently studying at the [42 Innovation Academy](https://innovationacademy.kr/academy/main/view)
 - 💬 &nbsp;How to reach me: [@donghyun0145](mailto:donghyun0145@gmail.com)
-
-<br>
-
-### Github Stat
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reg0145&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reg0145&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <br>
 
@@ -20,8 +14,12 @@ Welcome to my profile! I'm a student, aspiring back-end developer.
 
 <br>
 
+### Github Stat
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reg0145&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reg0145&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+<br>
+
+
+
 ### 🏔 Projects
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/90084199/156922062-1e722599-1365-493a-93da-9a3e0e55c963.png" width="200" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/106161582?s=400&u=2e5f37dd238bd7730e899b2ad50521b996b8d524&v=4" width="200" height="40"/>
-
-
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
