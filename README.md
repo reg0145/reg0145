@@ -4,7 +4,7 @@ Welcome to my profile! I'm a student, aspiring back-end developer.
 <img align="right" alt="GIF" src="https://github.com/reg0145/reg0145/blob/main/assets/coding.gif?raw=true" width="380" height="318" />
 
 - 🌱 &nbsp;I’m currently learning C++ and Algorithms
-- 💒 &nbsp;I'm currently studying at the [42 Innovation Academy](https://innovationacademy.kr/academy/main/view)
+- 💒 &nbsp;I'm currently studying at the [42SEOUL](https://innovationacademy.kr/academy/main/view)
 - 💬 &nbsp;How to reach me: [@donghyun0145](mailto:donghyun0145@gmail.com)
 
 <br>
